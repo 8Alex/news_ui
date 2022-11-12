@@ -1,0 +1,25 @@
+.ui.comments.comments__container:first-child {
+  margin-top: 20px;
+}
+
+.comments__count {
+  display: inline-block;
+  margin: 0 10px 0 10px;
+  background: #c9cacd;
+  border-radius: 50%;
+  height: 5%;
+  width: 5%;
+  text-align: center;
+}
+
+.comments__innerContainer {
+  margin-top: 20px;
+}
+
+.comments__nested {
+  padding-left: 50px;
+}
+
+.comments__icon i:hover {
+  cursor: pointer;
+}

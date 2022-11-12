@@ -1,0 +1,19 @@
+.item__container {
+  margin-top: 10px;
+}
+
+.item__title {
+  text-align: center;
+}
+
+.item__btn {
+  padding: 10px;
+}
+
+.item__btn:hover {
+  cursor: pointer;
+}
+
+.icon.item__icon {
+  font-size: 1.5em;
+}
